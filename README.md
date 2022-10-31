@@ -5,12 +5,6 @@ A chat application built using django rest framework. The
 user can search other users and add them as a friend and have 
 one to one chat with their friends.
 
-## Screenshots
-
-![image](/Images/search.jpg)
-
-![image](/Images/chat.jpg)
-
 ## Installation
 
 ```
@@ -31,3 +25,6 @@ python manage.py runserver
 - Login with below credentials and start chatting
  Username - sourav
  Password - Password@Changed
+
+User management -
+localhost:8000/admin
